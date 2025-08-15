@@ -2,7 +2,5 @@
 
 ## Screenshots
 
-<p>
-  <img src="https://github.com/user-attachments/assets/9f8537ca-02cc-4b45-b932-e9f1a4676c00" alt="Home Page" width="250"/>
-  <img src="https://github.com/user-attachments/assets/316cde5f-7b68-4c30-9dd9-a74eddc5183f" alt="Profile Page" width="250"/>
-</p>
+[![Screenshot_15-8-2025_14388_](https://github.com/user-attachments/assets/b674eefe-6e40-4656-ac83-6381e0b1e4b9)
+ ![Screenshot_15-8-2025_143839_](https://github.com/user-attachments/assets/7012fc2e-de8e-4b8c-9d72-f8b86e933180)]
